@@ -1,3 +1,3 @@
 # Circuithub
-This is my first git respository
+This is my first git repository
 Author = Gowtham R
